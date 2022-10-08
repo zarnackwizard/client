@@ -1,0 +1,41 @@
+If you downloaded this anywhere except cracked.to you may be infected.
+
+
+
+
+
+
+
+
+
+
+
+The Sad, Sad story of Venom Software:
+
+
+Back at the beginning of 2020, Venom Remote Software was listed for sale on a competing forum for outrageous prices($150/month).
+I purchased this solely for analysis, which I normally do simply to understand the market and how trending malware works. This is the only purchase in which I genuinely felt ripped off enough to feed to ForlaxPy(now known as Chiros)[see fig 1--], who posted it in the exclusive tools section, featured above. The software was copy/paste github code, to which Forlax made somewhat usable with restructuring. Thanks Forlax. Quick round of applause.
+
+Venom began attempting to DDoS c.to to bring it down--as of which he failed miserably and went black across every forum for almost 6 months.
+
+Got it, we killed the snake.
+Chop em like Harry Potter killing the basilisk in the Chamber of Secrets.
+
+Right?
+
+Nah.
+Buddy came back with a reskin of his trash software, paid for rep and began pushing sales again with a new business model. To which I dove head first into finding out about this creature.
+Not only does he rip people off selling them repackaged open source code, he blatantly accepts convicted pedophiles using his tool.
+
+Venom has ripped off his last dollar from these communities, with a whopping 9% customer satisfaction rate from a recent study [see fig. 3--] we have made sure of it.
+
+So today, we present to you a working, functional, pseudo angsty tool; Venom Software 2.8 FINAL.
+Just as it should be: Free as the software that was compiled into it like an MTV: Big Shiny Tunes album.
+
+
+If you are reading this, Benjamin; we see you.
+You can thank yourself for using your morning breath to piss off Hussaryyn
+
+
+PS: For fuck sakes, it's spelled "License", not Lisence.
+And "Assembly" not "Assemply" you frosty headed fuck.
